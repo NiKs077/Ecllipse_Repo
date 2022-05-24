@@ -19,7 +19,7 @@ public class Test {
 //		dao.delete(product);
 //		System.out.println("the inserted record and the rows affected are:"+result);
 //		Product product = dao.get(1);
-		List<Product> products = dao.findAll();
-		System.out.println(products);
+	//	List<Product> products = dao.findAll();
+	//	System.out.println(products);
 	}
 }
